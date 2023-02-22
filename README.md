@@ -5,4 +5,4 @@ This implementation uses the BM25 lib to classify the texts of the CISI.ALL file
 
 To run this program just open the notebook file on the Colab platform. 
 
-O arquivo executável esta em SRC/MAIN
+The executable file is in SRC/MAIN
